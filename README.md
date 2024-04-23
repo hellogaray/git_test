@@ -1,3 +1,1 @@
-# git_test
-My first Github repo!
-Hello Odin!
+Used for small assigments while completing The Odin Project courses.
